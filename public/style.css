@@ -1,0 +1,15 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+     background: transparent url;
+}
+
+body{
+    background-image: linear-gradient(rgb(119, 23, 23),rgb(107, 107, 243),rgb(108, 213, 142),rgb(38, 154, 193));
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
